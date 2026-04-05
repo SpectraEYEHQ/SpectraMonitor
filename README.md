@@ -1,6 +1,4 @@
-# 🛡️ SpectraMonitor - Uptime & Incident Management
-
-![SpectraMonitor Banner](/public/images/logo.png)
+# 👁️‍🗨️ SpectraMonitor - Uptime & Incident Management
 
 > **SpectraMonitor** (SpectraEYE Lite) is a powerful SaaS platform for **uptime monitoring**, **incident management**, and **public status pages**. It enables technical teams to detect downtime instanty and communicate transparency with customers.
 
@@ -65,7 +63,6 @@ SpectraMonitor minimizes downtime impact through rapid detection and coordinated
 SpectraMonitor is a **multi-tenant** system with Role-Based Access Control (RBAC):
 *   **User**: Access to monitors, incidents, and status pages.
 *   **Admin**: Manage organization users, settings, and billing.
-*   **Super Admin**: Platform-level control (tenants, licenses, global settings).
 
 ---
 
